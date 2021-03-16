@@ -1,0 +1,13 @@
+.NavigationItem {
+    margin: 10px;
+    box-sizing: border-box;
+    display: block;
+}
+
+.NavigationItem a {
+    color: #8F5C2C;
+    text-decoration: none;
+    width: 100%;
+    box-sizing: border-box;
+    display: block;
+}
