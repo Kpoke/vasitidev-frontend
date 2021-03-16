@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/vasiti-dev/static/css/main.09b8d029.chunk.css",
+    "main.js": "/vasiti-dev/static/js/main.c687a567.chunk.js",
+    "main.js.map": "/vasiti-dev/static/js/main.c687a567.chunk.js.map",
+    "runtime-main.js": "/vasiti-dev/static/js/runtime-main.fbc0d853.js",
+    "runtime-main.js.map": "/vasiti-dev/static/js/runtime-main.fbc0d853.js.map",
+    "static/js/2.b68e0569.chunk.js": "/vasiti-dev/static/js/2.b68e0569.chunk.js",
+    "static/js/2.b68e0569.chunk.js.map": "/vasiti-dev/static/js/2.b68e0569.chunk.js.map",
+    "index.html": "/vasiti-dev/index.html",
+    "static/css/main.09b8d029.chunk.css.map": "/vasiti-dev/static/css/main.09b8d029.chunk.css.map",
+    "static/js/2.b68e0569.chunk.js.LICENSE.txt": "/vasiti-dev/static/js/2.b68e0569.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fbc0d853.js",
+    "static/js/2.b68e0569.chunk.js",
+    "static/css/main.09b8d029.chunk.css",
+    "static/js/main.c687a567.chunk.js"
+  ]
+}
